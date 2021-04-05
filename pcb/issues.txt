@@ -1,0 +1,4 @@
+add 4k7 pull up to reset line (test this first)
+resistor networks to reduce component count
+series 1k resistor on analogue input
+invert buttons circuit and remove 100k resistors, use micro pull ups instead (test this first)
